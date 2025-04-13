@@ -26,15 +26,12 @@ The tests are implemented using **Java**, **Selenium WebDriver**, **TestNG**, an
 ---
 
 
----
-
 ## ▶️ How to Run the Tests
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/ManalKS5/Swag-Labs-Automation.git
    cd Swag-Labs-Automation
-
 
 2. **Open the project in IntelliJ IDEA or any other Java IDE.**
 
@@ -61,4 +58,4 @@ The tests are implemented using **Java**, **Selenium WebDriver**, **TestNG**, an
 
 Manal Sewaied
 
-Linked in
+[Linked in](LinkedIn Profile (https://www.linkedin.com/in/manal-sewaied-76bb18216/))
