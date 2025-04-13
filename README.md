@@ -58,4 +58,4 @@ The tests are implemented using **Java**, **Selenium WebDriver**, **TestNG**, an
 
 Manal Sewaied
 
-[Linked in](LinkedIn Profile (https://www.linkedin.com/in/manal-sewaied-76bb18216/))
+[Linked in](https://www.linkedin.com/in/manal-sewaied-76bb18216/)
